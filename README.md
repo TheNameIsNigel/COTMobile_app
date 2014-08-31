@@ -2,4 +2,4 @@ Cannibal Open Touch
 =============
 
 ## Screenshots
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.dropbox.com/s/y4aauw6prh35vih/Screenshot_2014-08-30-22-22-56.png?dl=0 "Logo Title Text 1")
