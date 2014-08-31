@@ -14,5 +14,7 @@
     <string name="button_disagree">&quot;I do not agree.&quot;</string>
     <string name="welcome_text">Cannibal Open Touch</string>
     <string name="disclaimer_text">&quot;Modifying or replacing your device's software may void your device's warranty, lead to data loss, hair loss, financial loss, privacy loss, security breaches, or other damage, and therefore must be done entirely at your own risk. No one affiliated with the nicknamed project is responsible for your actions.&quot;</string>
+    <string name="title_activity_make_selection">MakeSelection</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
