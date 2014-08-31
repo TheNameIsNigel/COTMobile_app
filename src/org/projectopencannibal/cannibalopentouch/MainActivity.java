@@ -1,6 +1,6 @@
 package org.projectopencannibal.cannibalopentouch;
 
-import org.projectopencannibal.projectopencannibal.R;
+import org.projectopencannibal.cannibalopentouch.R;
 
 import android.app.Activity;
 import android.app.ActionBar;
