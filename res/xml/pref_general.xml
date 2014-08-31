@@ -1,11 +1,11 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
     <ListPreference
-        android:title="@string/pref_unit_title"
-        android:key="@string/pref_unit_key"
-        android:defaultValue="@string/pref_unit_metric"
-        android:entryValues="@array/pref_unit_values"
-        android:entries="@array/pref_unit_options"/>
+        android:title="@string/pref_flash_title"
+        android:key="@string/pref_flash_key"
+        android:defaultValue="@string/pref_flash_flashimage"
+        android:entryValues="@array/pref_flash_values"
+        android:entries="@array/pref_flash_methods"/>
 
     <!-- NOTE: EditTextPreference accepts EditText attributes. -->
     <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
