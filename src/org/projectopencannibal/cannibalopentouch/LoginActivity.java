@@ -45,6 +45,7 @@ import org.projectopencannibal.cannibalopentouch.R.string;
  * /android/getting-started#step_1_enable_the_google_api and follow the steps in
  * "Step 1" to create an OAuth 2.0 client for your package.
  */
+@SuppressWarnings("unused")
 public class LoginActivity extends PlusBaseActivity implements
 		LoaderCallbacks<Cursor> {
 
