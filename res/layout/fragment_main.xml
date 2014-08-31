@@ -29,6 +29,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:text="@string/button_agree" />
+    	android:onClick="sendMessage" />
 
     <Button
         android:id="@+id/button2"
@@ -37,6 +38,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:text="@string/button_disagree" />
+    	android:onClick="sendMessage" />
 
     <ImageView
         android:id="@+id/imageView1"
