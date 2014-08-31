@@ -10,9 +10,9 @@
     <!-- NOTE: EditTextPreference accepts EditText attributes. -->
     <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
     <EditTextPreference
-        android:title="@string/pref_location_title"
-        android:key="@string/pref_location_key"
-        android:defaultValue="@string/pref_location_default"
+        android:title="@string/pref_block_title"
+        android:key="@string/pref_block_key"
+        android:defaultValue="@string/pref_blocklocation_default"
         android:inputType="text"
         android:singleLine="true" />
 

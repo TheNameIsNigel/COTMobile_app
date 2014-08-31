@@ -4,10 +4,10 @@
     <!-- Strings related to Settings -->
 
     <!-- Example General settings -->
-    <string name="pref_location_title">Location</string>
-    <string name="pref_location_key">location</string>
-    <string name="pref_location_label">City</string>
-    <string name="pref_location_default">Oakland</string>
+    <string name="pref_block_title">&quot;Block Location&quot;</string>
+    <string name="pref_block_key">block</string>
+    <string name="pref_blocklocation_label">City</string>
+    <string name="pref_blocklocation_default">&quot;/dev/block/REPLACEME&quot;</string>
 
     <string name="pref_flash_key">flash</string>
     <string name="pref_flash_title">&quot;Flashing Method&quot;</string>
@@ -23,6 +23,13 @@
         <item>&quot;dd&quot;</item>
         <item>&quot;flashimage&quot;</item>
     </string-array>
+    <string-array name="pref_support_devices">
+        
+        <item>&quot;LG Nexus 4&quot;</item><item>&quot;LG Nexus 5&quot;</item><item >&quot;LG Viper (ls840)&quot;</item>
+        
+        
+        <item >&quot;Motorola Droid Razr HD (xt926)&quot;</item>
+    <item>&quot;Samsung Galaxy S3 (d2lte)&quot;</item></string-array>
 
 
 
