@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cannibal Open Touch</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Login</string>
+    <string name="title_section3">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_quit">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Cannibal Open Touch</string>
+    <string name="button_agree">&quot;I agree.&quot;</string>
+    <string name="button_disagree">&quot;I do not agree.&quot;</string>
+    <string name="welcome_text">Cannibal Open Touch</string>
+    <string name="disclaimer_text">&quot;Modifying or replacing your device's software may void your device's warranty, lead to data loss, hair loss, financial loss, privacy loss, security breaches, or other damage, and therefore must be done entirely at your own risk. No one affiliated with the nicknamed project is responsible for your actions.&quot;</string>
+    <string name="title_activity_make_selection">MakeSelection</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
